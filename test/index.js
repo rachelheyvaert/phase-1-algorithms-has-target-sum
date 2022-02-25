@@ -25,3 +25,10 @@ describe("hasTargetSum", () => {
     expect(hasTargetSum([4], 5)).to.be.false;
   });
 });
+//function takes in an array and target
+//iterate over first integer, then others
+//if  any pair added together = the target 
+//return true
+//else false
+
+
